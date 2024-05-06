@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 👨‍💻 All of my projects are available at [my GitHub profile.](my GitHub profile.)
+- 👨‍💻 All of my projects are available at my GitHub profile.
 
 - 📫 How to reach me **balazsmargitai@gmail.com**
 
