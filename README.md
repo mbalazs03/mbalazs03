@@ -61,6 +61,34 @@
 
 ---
 
+## Certifications
+
+<a href="https://learn.nvidia.com/certificates?id=MFLM5iobQlKuCT6q6oJt3g">
+  <img src="https://raw.githubusercontent.com/mbalazs03/storage/refs/heads/main/assets/nvidia_logo.jpg" width="70">
+</a>
+
+<a href="https://www.credly.com/badges/f04be3f7-6f97-4b4f-a831-699d0418fb24/public_url">
+  <img src="https://raw.githubusercontent.com/mbalazs03/storage/refs/heads/main/assets/microsoft-certified-azure-fundamentals.png" width="75">
+</a>
+
+<a href="https://www.credly.com/badges/6eacebbf-aa12-448c-827a-bed140901347/public_url">
+  <img src="https://raw.githubusercontent.com/mbalazs03/storage/refs/heads/main/assets/microsoft-certified-azure-data-fundamentals.png" width="75">
+</a>
+
+<a href="https://www.credly.com/badges/61a852ea-dca0-404b-b3aa-1aec5ecd7e15/public_url">
+  <img src="https://raw.githubusercontent.com/mbalazs03/storage/refs/heads/main/assets/it-specialist-databases.png" width="75">
+</a>
+
+<a href="https://www.credly.com/badges/301dd53b-dc9e-4736-98cd-99125f3309ea/public_url">
+  <img src="https://raw.githubusercontent.com/mbalazs03/storage/refs/heads/main/assets/it-specialist-java.png" width="75">
+</a>
+
+<a href="https://www.credly.com/badges/223d4d77-6cb6-4ffc-ba24-70e56aeda81c/public_url">
+  <img src="https://raw.githubusercontent.com/mbalazs03/storage/refs/heads/main/assets/it-specialist-python.png" width="75">
+</a>
+
+---
+
 ## GitHub Statistics
 
 <p align="center">
