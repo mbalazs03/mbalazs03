@@ -1,114 +1,156 @@
-<h1 align="center">Hi, I'm Balázs</h1>
-<h3 align="center">Working on a lot of things...</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mbalazs03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-</br>
+<div align="center">
 
-<h2>💻 Tech Stack</h2>
+<!-- Typing SVG - animated header -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Bal%C3%A1zs;Full-Stack+Developer;Co-Founder+%40+Skillion;Building+AI-Powered+EdTech" alt="Typing SVG" /></a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/margitai-balazs-cs)
+[![Profile Views](https://komarev.com/ghpvc/?username=mbalazs03&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/mbalazs03)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🔭 Co-founder & developer at **[Skillion](https://skillion.hu)** — an AI-powered educational platform
+- 🎓 Studying **Data Science** at university
+- 🌍 Based in **Hungary**, building for a global audience
+- 💬 Ask me about **React Native, Next.js, JavaScript, Flask, or AI in education**
+- ⚡ Fun fact: I enjoy strategic board games like **Catan** and **Dune Imperium**
+
+---
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>Languages</b></summary>
+<br/>
 <p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
+</details>
+
+<details open>
+<summary><b>Frontend</b></summary>
+<br/>
 <p align="center">
-  <!-- Frontend Frameworks & Tools -->
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Radix_UI-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
+</details>
+
+<details open>
+<summary><b>Backend & APIs</b></summary>
+<br/>
 <p align="center">
-  <!-- Backend & Others -->
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white" />
-  <img src="https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
+</details>
+
+<details open>
+<summary><b>Databases</b></summary>
+<br/>
 <p align="center">
-  <!-- Database -->
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />  
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>DevOps, Cloud & Tools</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 <p align="center">
-  <!-- DevOps & Cloud -->
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />  
-</p>
-<p align="center">
-    <!-- Design Tools -->
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" />
-</p>
-<p align="center">
-  <!-- Additional Tools -->
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/clickup-7B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 </p>
-<p align="center">
-    <!-- Operating Systems -->
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
+</details>
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 <p align="center">
-  <a href="https://learn.nvidia.com/certificates?id=MFLM5iobQlKuCT6q6oJt3g">
-    <img src="https://raw.githubusercontent.com/mbalazs03/storage/refs/heads/main/assets/nvidia_logo.jpg" width="70">
+  <a href="https://learn.nvidia.com/certificates?id=MFLM5iobQlKuCT6q6oJt3g" title="NVIDIA Certification">
+    <img src="https://raw.githubusercontent.com/mbalazs03/storage/refs/heads/main/assets/nvidia_logo.jpg" width="70" />
   </a>
-  
-  <a href="https://www.credly.com/badges/f04be3f7-6f97-4b4f-a831-699d0418fb24/public_url">
-    <img src="https://raw.githubusercontent.com/mbalazs03/storage/refs/heads/main/assets/microsoft-certified-azure-fundamentals.png" width="75">
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/f04be3f7-6f97-4b4f-a831-699d0418fb24/public_url" title="Azure Fundamentals (AZ-900)">
+    <img src="https://raw.githubusercontent.com/mbalazs03/storage/refs/heads/main/assets/microsoft-certified-azure-fundamentals.png" width="75" />
   </a>
-  
-  <a href="https://www.credly.com/badges/6eacebbf-aa12-448c-827a-bed140901347/public_url">
-    <img src="https://raw.githubusercontent.com/mbalazs03/storage/refs/heads/main/assets/microsoft-certified-azure-data-fundamentals.png" width="75">
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/6eacebbf-aa12-448c-827a-bed140901347/public_url" title="Azure Data Fundamentals (DP-900)">
+    <img src="https://raw.githubusercontent.com/mbalazs03/storage/refs/heads/main/assets/microsoft-certified-azure-data-fundamentals.png" width="75" />
   </a>
-  
-  <a href="https://www.credly.com/badges/61a852ea-dca0-404b-b3aa-1aec5ecd7e15/public_url">
-    <img src="https://raw.githubusercontent.com/mbalazs03/storage/refs/heads/main/assets/it-specialist-databases.png" width="75">
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/61a852ea-dca0-404b-b3aa-1aec5ecd7e15/public_url" title="IT Specialist — Databases">
+    <img src="https://raw.githubusercontent.com/mbalazs03/storage/refs/heads/main/assets/it-specialist-databases.png" width="75" />
   </a>
-  
-  <a href="https://www.credly.com/badges/301dd53b-dc9e-4736-98cd-99125f3309ea/public_url">
-    <img src="https://raw.githubusercontent.com/mbalazs03/storage/refs/heads/main/assets/it-specialist-java.png" width="75">
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/301dd53b-dc9e-4736-98cd-99125f3309ea/public_url" title="IT Specialist — Java">
+    <img src="https://raw.githubusercontent.com/mbalazs03/storage/refs/heads/main/assets/it-specialist-java.png" width="75" />
   </a>
-  
-  <a href="https://www.credly.com/badges/223d4d77-6cb6-4ffc-ba24-70e56aeda81c/public_url">
-    <img src="https://raw.githubusercontent.com/mbalazs03/storage/refs/heads/main/assets/it-specialist-python.png" width="75">
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/223d4d77-6cb6-4ffc-ba24-70e56aeda81c/public_url" title="IT Specialist — Python">
+    <img src="https://raw.githubusercontent.com/mbalazs03/storage/refs/heads/main/assets/it-specialist-python.png" width="75" />
   </a>
 </p>
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Stats
+
+<!-- Stats cards with dark/light mode support -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mbalazs03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mbalazs03&show_icons=true&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mbalazs03&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mbalazs03&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mbalazs03&layout=compact&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbalazs03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  </picture>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbalazs03&show_icons=true&locale=en" alt="GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mbalazs03&theme=tokyonight&hide_border=true&background=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=mbalazs03&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com/?user=mbalazs03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </picture>
 </p>
 
 ---
 
-## Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/margitai-balazs-cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/margitai-balazs-cs" height="30" width="40" /></a>
-</p>
-
+<div align="center">
+  <i>Open to collaborations and interesting projects — feel free to reach out!</i>
+</div>
