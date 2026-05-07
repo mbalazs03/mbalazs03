@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG - animated header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Bal%C3%A1zs;Full-Stack+Developer;Co-Founder+%40+Skillion;Building+AI-Powered+EdTech" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Bal%C3%A1zs;Full-Stack+Developer" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -14,7 +14,6 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Co-founder & developer at **[Skillion](https://skillion.hu)** — an AI-powered educational platform
 - 🎓 Studying **Data Science** at university
 - 🌍 Based in **Hungary**, building for a global audience
 - 💬 Ask me about **React Native, Next.js, JavaScript, Flask, or AI in education**
