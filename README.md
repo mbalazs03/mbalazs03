@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG - animated header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Bal%C3%A1zs;Full-Stack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Bal%C3%A1zs;Full-Stack+Developer;AI-Native+Builder" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -14,10 +14,41 @@
 
 ## 🧑‍💻 About Me
 
+- 💼 **Full-stack developer** with ~1.5 years of professional experience — currently building internal web applications at the **University of Debrecen, Faculty of Informatics**
+- 🚀 Co-founded an **AI-powered EdTech SaaS** and took it from idea to a live product with **10,000+ registered users** and **~2,000 paying subscribers**
+- 🤖 **AI-native workflow:** I build with Claude Code, Cursor and MCP every day — not as an afterthought, but as part of how I ship
 - 🎓 Studying **Data Science** at university
-- 🌍 Based in **Hungary**, building for a global audience
-- 💬 Ask me about **React Native, Next.js, JavaScript, Flask**
+- 💬 Ask me about **React / Next.js, React Native, Python (Flask), Java (Spring Boot), or LLM integration**
 - ⚡ Fun fact: I enjoy strategic board games like **Catan** and **Dune Imperium**
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Taskify](https://github.com/mbalazs03/taskify)
+Full-stack task manager with **JWT authentication**, **role-based access control** (USER / ADMIN) and an admin dashboard, with server-side ownership enforcement on every resource.
+
+Fully containerized with Docker Compose and covered by a **GitHub Actions CI pipeline** that runs backend and frontend test suites on every push.
+
+`Java 21` `Spring Boot` `React` `PostgreSQL` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### [Fox Catcher](https://github.com/mbalazs03/foxcatcher-game)
+Two-player strategy board game with full **game-state modelling** and move validation — the fox tries to slip behind the hounds, the hounds try to trap it.
+
+Playable through both a **JavaFX GUI** and a console interface, packaged with Maven.
+
+`Java 21` `JavaFX` `Maven`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -32,6 +63,7 @@
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
@@ -57,9 +89,22 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>AI / LLM</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-1F1F1F?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 </details>
 
@@ -74,20 +119,23 @@
 </details>
 
 <details open>
-<summary><b>DevOps, Cloud & Tools</b></summary>
+<summary><b>DevOps, Testing & Tools</b></summary>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/ClickUp-7B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 </p>
 </details>
 
@@ -96,7 +144,7 @@
 ## 📜 Certifications
 
 <p align="center">
-  <a href="https://learn.nvidia.com/certificates?id=MFLM5iobQlKuCT6q6oJt3g" title="NVIDIA Certification">
+  <a href="https://learn.nvidia.com/certificates?id=MFLM5iobQlKuCT6q6oJt3g" title="NVIDIA — Generative AI with Diffusion Models">
     <img src="https://raw.githubusercontent.com/mbalazs03/storage/refs/heads/main/assets/nvidia_logo.jpg" width="70" />
   </a>
   &nbsp;&nbsp;
