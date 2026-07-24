@@ -16,7 +16,7 @@
 
 - 🎓 Studying **Data Science** at university
 - 🌍 Based in **Hungary**, building for a global audience
-- 💬 Ask me about **React Native, Next.js, JavaScript, Flask, or AI in education**
+- 💬 Ask me about **React Native, Next.js, JavaScript, Flask**
 - ⚡ Fun fact: I enjoy strategic board games like **Catan** and **Dune Imperium**
 
 ---
