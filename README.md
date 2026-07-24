@@ -16,7 +16,7 @@
 
 - 💼 **Full-stack developer** with ~1.5 years of professional experience — currently building internal web applications at the **University of Debrecen, Faculty of Informatics**
 - 🚀 Co-founded an **AI-powered EdTech SaaS** and took it from idea to a live product with **10,000+ registered users** and **~2,000 paying subscribers**
-- 🤖 **AI-native workflow:** I build with Claude Code, Cursor and MCP every day — not as an afterthought, but as part of how I ship
+- 🤖 **AI-native workflow:** I build with Claude Code, Cursor and MCP.
 - 🎓 Studying **Data Science** at university
 - 💬 Ask me about **React / Next.js, React Native, Python (Flask), Java (Spring Boot), or LLM integration**
 - ⚡ Fun fact: I enjoy strategic board games like **Catan** and **Dune Imperium**
