@@ -1,203 +1,91 @@
-<div align="center">
+# Balázs Margitai
 
-<!-- Typing SVG - animated header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Bal%C3%A1zs;Full-Stack+Developer;AI-Native+Builder" alt="Typing SVG" /></a>
+**Full-stack developer** · Debrecen, Hungary
 
-<br/>
+Two years building software professionally. Today I build internal web
+applications at the **University of Debrecen, Faculty of Informatics**; a
+monitoring system and a course management platform among them. Before that I
+co-founded **Skillion**, an AI EdTech product, and took it from idea to a live
+service.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/margitai-balazs-cs)
-[![Profile Views](https://komarev.com/ghpvc/?username=mbalazs03&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/mbalazs03)
+> It reached **~10,000 registered users** and **hundreds of paying subscribers** during that time.
 
-</div>
+Right now I'm moving toward **AI engineering**: LLM integration is the part of the
+stack I want to own, not just consume.
+
+![Professional since 2024](https://img.shields.io/badge/professional_since-2024-0969DA?style=flat-square)
+![Focus: full-stack and LLM integration](https://img.shields.io/badge/focus-full--stack_%2B_LLM_integration-8250DF?style=flat-square)
+![Open to new roles](https://img.shields.io/badge/status-open_to_new_roles-2EA043?style=flat-square)
+
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-margitai--balazs--cs-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/margitai-balazs-cs)
+[![Email me](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:balazsmargitai@gmail.com)
 
 ---
 
-## 🧑‍💻 About Me
+## Selected work
 
-- 💼 **Full-stack developer** with ~1.5 years of professional experience — currently building internal web applications at the **University of Debrecen, Faculty of Informatics**
-- 🚀 Co-founded an **AI-powered EdTech SaaS** and took it from idea to a live product with **10,000+ registered users** and **~2,000 paying subscribers**
-- 🤖 **AI-native workflow:** I build with Claude Code, Cursor and MCP.
-- 🎓 Studying **Data Science** at university
-- 💬 Ask me about **React / Next.js, React Native, Python (Flask), Java (Spring Boot), or LLM integration**
-- ⚡ Fun fact: I enjoy strategic board games like **Catan** and **Dune Imperium**
+### [Rebrickable API Manager](https://github.com/mbalazs03/rebrickable-api-manager)
 
----
+[![CI status](https://github.com/mbalazs03/rebrickable-api-manager/actions/workflows/ci.yml/badge.svg)](https://github.com/mbalazs03/rebrickable-api-manager/actions/workflows/ci.yml)
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
+*Java 21 · Spring Boot 3.2 · MongoDB 7 · React 19*
+ 
+Answers "what can I build right now from the bricks I already own?" Owned sets
+are merged into one part inventory, then catalogue sets are scored against it and
+ranked by completion.
+ 
+**The hard part:** quantities decide it, not membership. Three 2×4 bricks do not
+cover a requirement for eight, so every part contributes `min(owned, required)`.
+The upstream API allows one request per second, so the client paces itself, and
+the paging calls go through a retry wrapper that honours the server's
+`Retry-After` interval instead of guessing a backoff. Part lists are cached per
+set, which keeps one page of results from costing hundreds of calls.
 
 ### [Taskify](https://github.com/mbalazs03/taskify)
-Full-stack task manager with **JWT authentication**, **role-based access control** (USER / ADMIN) and an admin dashboard, with server-side ownership enforcement on every resource.
 
-Fully containerized with Docker Compose and covered by a **GitHub Actions CI pipeline** that runs backend and frontend test suites on every push.
+[![CI status](https://github.com/mbalazs03/taskify/actions/workflows/ci.yml/badge.svg)](https://github.com/mbalazs03/taskify/actions/workflows/ci.yml)
 
-`Java 21` `Spring Boot` `React` `PostgreSQL` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### [Fox Catcher](https://github.com/mbalazs03/foxcatcher-game)
-Two-player strategy board game with full **game-state modelling** and move validation — the fox tries to slip behind the hounds, the hounds try to trap it.
-
-Playable through both a **JavaFX GUI** and a console interface, packaged with Maven.
-
-`Java 21` `JavaFX` `Maven`
-
-</td>
-</tr>
-</table>
+*Java 21 · Spring Boot · React · PostgreSQL · Docker*
+ 
+Task manager with JWT authentication, role-based access control and an admin
+dashboard.
+ 
+**The hard part:** the admin surface is guarded twice over. The URL pattern is
+locked to the ADMIN role in the security config, and the controller carries its
+own `@PreAuthorize` so the endpoints stay protected even if a route rule is ever
+edited. Sessions are stateless, and role changes are checked against an allowlist
+rather than written straight from the request body.
 
 ---
 
-## 🛠️ Tech Stack
+## Stack
 
-<details open>
-<summary><b>Languages</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-</details>
+|**Area**|**Tools**|
+|---|---|
+| **Languages** | TypeScript · JavaScript · Java · Python · C# · SQL |
+| **Frontend** | React · Next.js · React Native · Expo · Tailwind · Radix UI · Vite |
+| **Backend** | Spring Boot · Flask · FastAPI · Node.js · Express · REST |
+| **Data** | PostgreSQL · MongoDB · MySQL |
+| **AI** | Claude Code · Cursor · MCP · LLM APIs |
+| **Delivery** | Docker · GitHub Actions · Azure · Nginx · Maven · JUnit · Vitest |
 
-<details open>
-<summary><b>Frontend</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Radix_UI-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>Backend & APIs</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>AI / LLM</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-1F1F1F?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>Databases</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>DevOps, Testing & Tools</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-</p>
-</details>
+I work AI-native day to day: Claude Code, Cursor and MCPs are part of the
+toolchain. Data Science MSc in progress at the University
+of Debrecen.
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-<p align="center">
-  <a href="https://learn.nvidia.com/certificates?id=MFLM5iobQlKuCT6q6oJt3g" title="NVIDIA — Generative AI with Diffusion Models">
-    <img src="https://raw.githubusercontent.com/mbalazs03/storage/refs/heads/main/assets/nvidia_logo.jpg" width="70" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/f04be3f7-6f97-4b4f-a831-699d0418fb24/public_url" title="Azure Fundamentals (AZ-900)">
-    <img src="https://raw.githubusercontent.com/mbalazs03/storage/refs/heads/main/assets/microsoft-certified-azure-fundamentals.png" width="75" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/6eacebbf-aa12-448c-827a-bed140901347/public_url" title="Azure Data Fundamentals (DP-900)">
-    <img src="https://raw.githubusercontent.com/mbalazs03/storage/refs/heads/main/assets/microsoft-certified-azure-data-fundamentals.png" width="75" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/61a852ea-dca0-404b-b3aa-1aec5ecd7e15/public_url" title="IT Specialist — Databases">
-    <img src="https://raw.githubusercontent.com/mbalazs03/storage/refs/heads/main/assets/it-specialist-databases.png" width="75" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/301dd53b-dc9e-4736-98cd-99125f3309ea/public_url" title="IT Specialist — Java">
-    <img src="https://raw.githubusercontent.com/mbalazs03/storage/refs/heads/main/assets/it-specialist-java.png" width="75" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/223d4d77-6cb6-4ffc-ba24-70e56aeda81c/public_url" title="IT Specialist — Python">
-    <img src="https://raw.githubusercontent.com/mbalazs03/storage/refs/heads/main/assets/it-specialist-python.png" width="75" />
-  </a>
-</p>
+**6 verified:** NVIDIA, Azure ×2, Java, Python, Databases
+
+[![NVIDIA Generative AI with Diffusion Models](https://img.shields.io/badge/NVIDIA-Generative_AI_with_Diffusion_Models-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://learn.nvidia.com/certificates?id=MFLM5iobQlKuCT6q6oJt3g)
+[![AZ-900 Azure Fundamentals](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/f04be3f7-6f97-4b4f-a831-699d0418fb24/public_url)
+[![DP-900 Azure Data Fundamentals](https://img.shields.io/badge/DP--900-Azure_Data_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/6eacebbf-aa12-448c-827a-bed140901347/public_url)
+[![IT Specialist Java](https://img.shields.io/badge/IT_Specialist-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.credly.com/badges/301dd53b-dc9e-4736-98cd-99125f3309ea/public_url)
+[![IT Specialist Python](https://img.shields.io/badge/IT_Specialist-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.credly.com/badges/223d4d77-6cb6-4ffc-ba24-70e56aeda81c/public_url)
+[![IT Specialist Databases](https://img.shields.io/badge/IT_Specialist-Databases-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://www.credly.com/badges/61a852ea-dca0-404b-b3aa-1aec5ecd7e15/public_url)
+
+Every badge links to its verification page.
 
 ---
-
-## 📊 GitHub Stats
-
-<!-- Stats cards with dark/light mode support -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mbalazs03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mbalazs03&show_icons=true&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=mbalazs03&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mbalazs03&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mbalazs03&layout=compact&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbalazs03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mbalazs03&theme=tokyonight&hide_border=true&background=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=mbalazs03&theme=default&hide_border=true" />
-    <img src="https://streak-stats.demolab.com/?user=mbalazs03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </picture>
-</p>
-
----
-
-<div align="center">
-  <i>Open to collaborations and interesting projects — feel free to reach out!</i>
-</div>
