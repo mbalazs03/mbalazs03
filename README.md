@@ -10,9 +10,6 @@ service.
 
 > It reached **~10,000 registered users** and **hundreds of paying subscribers** during that time.
 
-Right now I'm moving toward **AI engineering**: LLM integration is the part of the
-stack I want to own, not just consume.
-
 ![Professional since 2024](https://img.shields.io/badge/professional_since-2024-0969DA?style=flat-square)
 ![Focus: full-stack and LLM integration](https://img.shields.io/badge/focus-full--stack_%2B_LLM_integration-8250DF?style=flat-square)
 ![Open to new roles](https://img.shields.io/badge/status-open_to_new_roles-2EA043?style=flat-square)
